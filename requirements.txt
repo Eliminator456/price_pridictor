@@ -1,6 +1,8 @@
 Flask
+flask-cors
 requests
 pandas
 scikit-learn
 joblib
+google-search-results
 waitress
